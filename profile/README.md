@@ -1,4 +1,4 @@
-<img src="assets/prismlink-github-banner.png" alt="profile-readme-banner" style="width: 100%; height: auto;" />
+![PrismLinkGitHubBanner](https://static.devarshi.dev/prismlink-github-banner.png)
 
 ## 👋 Welcome to PrismLink!
 
